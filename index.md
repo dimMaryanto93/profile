@@ -5,7 +5,7 @@ title: Dimas Maryanto
 ## Contact Details
 
 * <small>Nama Lengkap:</small> Dimas Maryanto
-* <small>Alamat:</small> <address>Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18</address>
+* <small>Alamat:</small> Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18
 * <small>Tlp:</small> `082-1173-551-33`
 * <small>Email:</small> <dimas.maryanto@tabeldata.com>
 
@@ -29,14 +29,14 @@ title: Dimas Maryanto
 
 ## Experience
 
-### Udemy - Instructor &emsp; (<small>*Agustus 2017 - Sekarang*</small>)
+### Udemy - Instructor (<small>*Agustus 2017 - Sekarang*</small>)
 Paruhwaktu
 
 Job Description:
 - Membuat online cources terkait teknologi seperti Java, Docker, PostgreSQL, Oracle, Kubernetes
 - Diskusi dengan member di Group discord dan telegram
 
-### PT. Inti Konten Indonesia (INTENS) - DevOps Engineer &emsp; (<small>*Juni 2021 - Sekarang*</small>)
+### PT. Inti Konten Indonesia (INTENS) - DevOps Engineer (<small>*Juni 2021 - Sekarang*</small>)
 Paruhwaktu
 
 Job Description:
@@ -44,7 +44,7 @@ Job Description:
 - Mendesign proses deployment terkait CI/CD infra
 - Maintanance Server
 
-### PT Tabeldata Informatika - DevOps Consultant &emsp; (<small>*Agustus 2017 - Sekarang*</small>)
+### PT Tabeldata Informatika - DevOps Consultant (<small>*Agustus 2017 - Sekarang*</small>)
 Fulltime
 
 Lokasi: Jl. Cicalengka raya no 11 kota Bandung
@@ -59,7 +59,7 @@ Job Description:
 - Deliver recommendation and solution
 - Provide programming language
 
-### Tokopedia - Software Backend Engineer &emsp; (<small>*Januari 2021 - Februari 2022*</small>)
+### Tokopedia - Software Backend Engineer (<small>*Januari 2021 - Februari 2022*</small>)
 Paruhwaktu (freelance)
 
 Job Description:
@@ -68,7 +68,7 @@ Job Description:
 
 Lokasi: Jakarta selatan
 
-### PT Usaha karya Bina Mandiri (UKABIMA) - Staff IT &emsp; (<small>*September 2016 - July 2017*</small>)
+### PT Usaha karya Bina Mandiri (UKABIMA) - Staff IT (<small>*September 2016 - July 2017*</small>)
 Fulltime
 
 Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
@@ -78,7 +78,7 @@ Job Description:
 - Server Maintenace (Ubuntu Server)
 - Database Adminsitrator (PostgreSQL)
 
-### PT. Tabeldata Informatika - Junior Programmer &emsp; (<small>*2015-November - 2015-Desember*</small>)
+### PT. Tabeldata Informatika - Junior Programmer (<small>*2015-November - 2015-Desember*</small>)
 Fulltime
 
 Job Description: 
@@ -88,7 +88,7 @@ Job Description:
   * JSP
   * Hibernate
 
-### Universitas Komputer Indonesia (UNIKOM) &emsp; (<small>*2013 - 2014*</small>)
+### Universitas Komputer Indonesia (UNIKOM) (<small>*2013 - 2014*</small>)
 Paruhwaktu
 
 Sebagai: `Asisten Dosen Lab.Oracle 10g Database`
@@ -102,12 +102,10 @@ Jod Description:
 
 ## Education
 
-### SMAN 12 Bandung &emsp; <small>*2009 - 2011*</small>
-`IPS (Ilmu Pengetahuan Sosial)`
+### SMAN 12 Bandung (<small>*2009 - 2011*</small>)
+Jurusan: IPS (Ilmu Pengetahuan Sosial)
 
-### Universitas Komputer Indonesia (UNIKOM) Bandung 
-<small>*2011 - Maret 2016*</small>
-
+### Universitas Komputer Indonesia (UNIKOM) (<small>*2011 - Maret 2016*</small>)
 Jurusan: Sistem Informasi (S.Kom - IPK `3.44`)
 
 ## Projects
@@ -292,6 +290,3 @@ Dengan cakupan dan pembahasan mengenai:
 
 ---
 [avatar]: profile.jpg
-[homepage]: http://software.dimmaryanto93.com
-[twitter]: https://twitter.com/dimmaryanto93
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
