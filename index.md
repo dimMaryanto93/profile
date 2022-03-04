@@ -1,5 +1,6 @@
 ---
 title: Dimas Maryanto
+layout: default-layout
 ---
 
 ## Contact Details

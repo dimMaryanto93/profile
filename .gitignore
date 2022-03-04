@@ -1,0 +1,21 @@
+_site
+.sass-cache
+.jekyll-metadata
+package-lock.json
+rafts/
+
+# intellij IDEA
+.idea/
+
+# visual paradigm
+*.bak*
+*.vpp.lck
+
+sources
+
+# macbook
+.DS_Store
+
+# vim
+*.un~
+*.*~
