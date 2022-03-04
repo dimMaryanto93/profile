@@ -29,23 +29,23 @@ title: Dimas Maryanto
 
 ## Experience
 
-### Udemy - Instructor
-<small>*Agustus 2017 - Sekarang*</small> - Paruhwaktu
+### Udemy - Instructor &emsp; (<small>*Agustus 2017 - Sekarang*</small>)
+Paruhwaktu
 
 Job Description:
 - Membuat online cources terkait teknologi seperti Java, Docker, PostgreSQL, Oracle, Kubernetes
 - Diskusi dengan member di Group discord dan telegram
 
-### PT. Inti Konten Indonesia (INTENS) - DevOps Engineer
-<small>*Juni 2021 - Sekarang*</small> - Paruhwaktu
+### PT. Inti Konten Indonesia (INTENS) - DevOps Engineer &emsp; (<small>*Juni 2021 - Sekarang*</small>)
+Paruhwaktu
 
 Job Description:
 - Membuat dan membantu proses deployment
 - Mendesign proses deployment terkait CI/CD infra
 - Maintanance Server
 
-### PT Tabeldata Informatika - DevOps Consultant
-<small>*Agustus 2017 - Sekarang*</small> - Fulltime
+### PT Tabeldata Informatika - DevOps Consultant &emsp; (<small>*Agustus 2017 - Sekarang*</small>)
+Fulltime
 
 Lokasi: Jl. Cicalengka raya no 11 kota Bandung
 
@@ -59,8 +59,8 @@ Job Description:
 - Deliver recommendation and solution
 - Provide programming language
 
-### Tokopedia - Software Backend Engineer (freelance) 
-<small>*Januari 2021 - Februari 2022*</small> Paruhwaktu
+### Tokopedia - Software Backend Engineer &emsp; (<small>*Januari 2021 - Februari 2022*</small>)
+Paruhwaktu (freelance)
 
 Job Description:
 - Implement unit tests and functional tests for their tasks
@@ -68,8 +68,8 @@ Job Description:
 
 Lokasi: Jakarta selatan
 
-### PT Usaha karya Bina Mandiri (UKABIMA) - Staff IT
-<small>*September 2016 - July 2017*</small> - Fulltime
+### PT Usaha karya Bina Mandiri (UKABIMA) - Staff IT &emsp; (<small>*September 2016 - July 2017*</small>)
+Fulltime
 
 Lokasi: Wijaya Grand Centre Block F No 6, Jl Dharmawangsa III/ Wijaya II, Jakarta 12160.
 
@@ -78,8 +78,8 @@ Job Description:
 - Server Maintenace (Ubuntu Server)
 - Database Adminsitrator (PostgreSQL)
 
-### PT. Tabeldata Informatika - Junior Programmer
-<small>*2015-November - 2015-Desember*</small> - Fulltime
+### PT. Tabeldata Informatika - Junior Programmer &emsp; (<small>*2015-November - 2015-Desember*</small>)
+Fulltime
 
 Job Description: 
 - Project SIMRS (Sistem Informasi Management Rumah Sakit) Mata di Cicendo, Bandung. Jawa Barat, menggunakan teknologi:
@@ -88,8 +88,8 @@ Job Description:
   * JSP
   * Hibernate
 
-### Universitas Komputer Indonesia (UNIKOM)
-<small>*2013 - 2014*</small> - Paruhwaktu
+### Universitas Komputer Indonesia (UNIKOM) &emsp; (<small>*2013 - 2014*</small>)
+Paruhwaktu
 
 Sebagai: `Asisten Dosen Lab.Oracle 10g Database`
 
