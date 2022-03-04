@@ -5,9 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title }} | {{ site.author }}</title>
 
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/pygment_trac.css">
+    <link rel="stylesheet" type="text/css"  href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" type="text/css"  href="{{ "/assets/css/pygment_trac.css" | prepend: site.baseurl }}" />
+
     <meta name="viewport" content="width=device-width">
+    <meta property="og:url" content="{{ site.baseurl }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"
+/>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,8 +22,47 @@
     <div class="wrapper">
       <header>
         <h1>{{ site.author }}</h1>
-        <p>A Theme for GitHub Pages</p>
-        <p class="view"></p>
+        <p>{{ site.description }}</p>
+        <p class="view">
+            <h4>Contact Details</h4>
+            <table>
+                <tr>
+                    <td><small>Nama Lengkap</small></td>
+                    <td>Dimas Maryanto</td>
+                </tr>
+                <tr>
+                    <td>Alamat</td>
+                    <td>Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18</td>
+                </tr>
+                <tr>
+                    <td>Telp/HP</td>
+                    <td><pre><code>08211-7355-133</code></pre></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><a href="mailto:{{ site.email }}">{{ site.email }}</a></td>
+                </tr>
+            </table>
+        
+            <h4>Follow me</h4>
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <a href="https://www.linkedin.com/in/dimmaryanto93/" target="_blank">Linkedin</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="https://github.com/dimmaryanto93" target="_blank">github</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="https://www.facebook.com/dimMaryanto93" target="_blank">Facebook</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="https://www.instagram.com/dimmaryanto93/" target="_blank">Instagram</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="https://www.youtube.com/c/DimasMaryanto" target="_blank">Instagram</a>
+                </li>
+            </ul>
+        </p>
       </header>
       <section>
         <article itemscope itemtype="http://schema.org/BlogPosting">
@@ -27,10 +72,10 @@
         </article>
       </section>
       <footer>
-        <p>This project is maintained by <a href="http://github.com/orderedlist">Steve Smith</a></p>
+        <p>This project is maintained by <a href="{{ site.github }}">{{ site.author }}</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="assets/js/scale.fix.js"></script>
+    <script src="{{ "/assets/js/scale.fix.js" | prepend: site.baseurl }}"></script>
   </body>
 </html>

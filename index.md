@@ -3,23 +3,6 @@ title: Dimas Maryanto
 layout: default-layout
 ---
 
-## Contact Details
-
-* <small>Nama Lengkap:</small> Dimas Maryanto
-* <small>Alamat:</small> Jl.bukit indah no B8 Kab.Bandung Kec.Cileunyi RT.06 RW.18
-* <small>Tlp:</small> `082-1173-551-33`
-* <small>Email:</small> <dimas.maryanto@tabeldata.com>
-
-
-## Sosial Media
-
-* <small>Linkedin:</small> <a href="https://www.linkedin.com/in/dimmaryanto93/" target="_blank">in/dimmaryanto93/</a>
-* <small>Github:</small> <a href="https://github.com/dimmaryanto93" target="_blank">github.com/dimMaryanto93</a>
-* <small>Gitlab:</small> <a href="https://gitlab.com/dimmaryanto93" target="_blank">gitlab.com/dimMaryanto93</a>
-* <small>Facebook:</small> <a href="https://www.facebook.com/dimMaryanto93" target="_blank">f/dimMaryanto93</a>
-* <small>Instagram:</small> <a href="https://www.instagram.com/dimmaryanto93/" target="_blank">@dimMaryanto93</a>
-* <small>Youtube Channel:</small> <a href="https://www.youtube.com/channel/UCNTS3BwsqzKwaOA0mOPLCgw" target="_blank">c/DimasMaryanto</a>
-
 ## Skill
 
 * Java
