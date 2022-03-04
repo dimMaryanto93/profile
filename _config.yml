@@ -1,1 +1,22 @@
 theme: jekyll-theme-minimal
+title: My Resume
+author: Dimas Maryanto
+jobName: Principal Software Engineer
+email: software.dimas_m@icloud.com
+github: https://github.com/dimMaryanto93
+description: |
+  Website ini adalah Curriculum Vitae atau CV saya.
+message: 
+baseurl: "/profile"
+
+# to override the default setting.
+exclude:
+  - _docker/
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - package-lock.json
+  - package.json
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
